@@ -1,0 +1,8 @@
+AIMS:
+This analysis aimed to evaluate efficacy and safety of empagliflozin in combination therapy in <65 y.o. patients, overweight/obese, and with uncontrolled T2DM.
+METHODS:
+Pooled analysis from three phase-III trials, in <65 y.o. patients, with BMI 25-35kg/m2, and HbA1c ≥8% at baseline. Patients (N=439) were randomized to placebo (n=138), empagliflozin 10mg (n=160), or empagliflozin 25mg (n=141) once daily (24weeks) as add-on to metformin, to metformin plus sulfonylurea, or to pioglitazone ± metformin.
+RESULTS:
+At week 24, adjusted mean (SE) changes from baseline in HbA1c were -0.19% (0.07) for placebo vs. -1.10% (0.07) and -1.10% (0.07) for empagliflozin 10 and 25mg, respectively (both p<0.001). Adjusted mean (SE) changes from baseline in weight were -0.33kg (0.21) for placebo vs. -1.94kg (0.19) and -2.14kg (0.20) for empagliflozin 10 and 25mg, respectively (both p<0.001). Adverse events were reported in 57.2% on placebo, 64.4% on empagliflozin 10mg and 59.6% on empagliflozin 25mg. Genital infection AEs were reported in 1.4% on placebo, 3.8% on empagliflozin 10mg, and 5.0% on empagliflozin 25mg.
+CONCLUSIONS:
+In this specific population, empagliflozin in combination with other oral agents, significantly reduced HbA1c and body weight and was well tolerated.
